@@ -1,0 +1,19 @@
+.paragraph {
+    background-color: rgb(239, 183, 179);
+    font-family: Verdana, DeDejaVu Sans, sans-serif
+}
+
+.paragraph.cooler{
+    font-size: 24px;
+}
+
+#element2{
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#element4{
+    background-color: rgb(153, 224, 122);
+    font-size: 24px;
+    font-weight: bold;
+}
